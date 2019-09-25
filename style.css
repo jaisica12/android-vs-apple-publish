@@ -1,0 +1,43 @@
+body {
+    background-color: #cabfb6;
+}
+
+div.main {
+    width: 600px;
+    padding: 10px 100px 25px;
+    margin: auto;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p ul {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+div.head {
+    text-align: center
+}
+
+button{
+  
+    font-family: 'Proza Libre', sans-serif;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.Explore{
+    
+    background-color: #c9793b;
+}
+
+.android{
+    background-color: #a4c93b;
+    font: 20px;
+    padding: 4px 19px; 
+}
+
+.apple{
+    background-color: #b6bcca;
+    font: 20px;
+    padding: 4px 19px;   
+}
